@@ -42,12 +42,17 @@ pip install -r requirements.txt
 ```
 uvicorn app:app --reload
 ```
+or
+```python
+python app.py
+```
 If everything is working properly the server should start at 
 ```
 http://127.0.0.1:8000
 ```
 
 # Testing the API
+
 ## Swagger
 To access the Swagger UI go to
 ```

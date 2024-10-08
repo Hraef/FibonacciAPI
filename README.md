@@ -59,7 +59,7 @@ For the GET section make sure you input the number you want to calculate. For in
 
 This will show the result of the API request as seen below. After sending the GET request with the number 10 we can see the Fibonacci response is 55 as shown below.
 
-![Swagger UI Screenshot](./screenshots/Swagger_result.png)
+![Swagger UI Result Screenshot](./screenshots/Swagger_result.png)
 
 ## Curl
 We can use curl to send a GET reauest to the API. To send a GET request you can try this:
